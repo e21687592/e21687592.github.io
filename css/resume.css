@@ -19,11 +19,11 @@ h3,
 h4,
 h5,
 h6 {
-  font-family:text-align: center;
-    'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family:'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
-  text-transform: uppercase;
-  color: #ff6347;
+  text-transform: lowercase;
+  color: 000000
+  background-color: RGB(0,256,0);
 }
 
 h1 {
