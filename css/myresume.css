@@ -7,7 +7,9 @@ nav class:bg-primary
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Noto Sans TC', sans-serif;
     color: rgb(255, 99, 71)
-}
+}    
+
+
 subheading {
     font-family: 'Noto Sans TC', sans-serif;
 } 
