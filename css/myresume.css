@@ -1,14 +1,13 @@
 body {
-    font-family: font-family: 'Noto Sans TC', sans-serif;
-    color: rgb(0, 0, 100)
+    font-family: 'Noto Sans TC', sans-serif;
+    color: rgb(0, 0, 180)
 nav class:bg-primary
-{background-color:rgb(256, 0, 0)
+{background-color:rgb(0, 0, 0)
 }
-
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Noto Sans TC', sans-serif;
     color: rgb(255, 99, 71)
 }
 subheading {
     font-family: 'Noto Sans TC', sans-serif;
-}
+} 
