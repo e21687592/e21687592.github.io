@@ -8,7 +8,7 @@ font-family: 'Noto Sans TC', sans-serif;
 }
 @media (min-width: 992px) {
   body {
-    padding-top: 0;
+    padding-top: 6;
     padding-left: 17rem;
   }
 }
