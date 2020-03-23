@@ -2,9 +2,9 @@
  * Start Bootstrap - Resume v5.0.8 (https://startbootstrap.com/template-overviews/resume)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
- */body{font-family:'Noto Sans TC', sans-serif;padding-top:54px;color:#696969;font-size:40px}
+ */body{font-family:'Noto Sans TC', sans-serif;padding-top:54px;color:#696969;font-size:20px}
 @media (min-width:992px){body{padding-top:0;padding-left:17rem}}
-h1,h2,h3,h4,h5,h6{font-family:'Noto Sans TC', sans-serif;font-size:80px}
+h1,h2,h3,h4,h5,h6{font-family:'Noto Sans TC', sans-serif;font-size:40px}
 ;font-weight:700;text-transform:uppercase;color:#343a40}
 h1{font-size:6rem;line-height:5.5rem}h2{font-size:3.5rem}h3{font-size:2rem}p.lead{font-size:1.15rem;font-weight:400}.
 subheading{text-transform:uppercase;font-weight:1500;font-family:'"Noto Sans TC",sans-serif';font-size:2rem;line-height:5px}.
@@ -17,6 +17,6 @@ navbar-nav .nav-item .nav-link{font-weight:800;letter-spacing:.5rem;text-transfo
   #sideNav .navbar-collapse{display:flex;align-items:flex-start;flex-grow:0;width:100%;margin-bottom:auto}
   #sideNav .navbar-collapse .navbar-nav{flex-direction:column;width:100%}#sideNav .
   navbar-collapse .navbar-nav .nav-item{display:block;line-height:40px}
-  #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link{display:block;line-height:2px}}section.resume-section{padding-top:5rem!important;padding-bottom:5rem!important;max-width:75rem}
+  #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link{display:block;line-height:10px}}section.resume-section{padding-top:5rem!important;padding-bottom:5rem!important;max-width:75rem}
 section.resume-section .resume-item .resume-date{min-width:none}@media (min-width:768px){section.resume-section{min-height:100vh}section.resume-section .resume-item .resume-date{min-width:18rem}}@media (min-width:992px){section.resume-section{padding-top:3rem!important;padding-bottom:3rem!important}}.
-bg-primary{background-color:#000000!important}.text-primary{color:#bd5d38!important;font-size:80px}a{color:#DAA520}a:active,a:focus,a:hover{color:#DAA520} 
+bg-primary{background-color:#000000!important}.text-primary{color:#bd5d38!important;font-size:40px}a{color:#DAA520}a:active,a:focus,a:hover{color:#DAA520} 
