@@ -5,7 +5,7 @@
  */body{background-color: #d8e3f0;background-image: url("https://www.transparenttextures.com/patterns/nice-snow.png");font-family:'Noto Sans TC', sans-serif;padding-top:54px;color:#696969;font-size:32px;line-height:50px;letter-spacing:0.5px;text-align:center}
  @media (min-width:992px)
  {body{padding-top:0;padding-left:25rem}
- h1,h2,h3,h4,h5,h6{font-family:'Noto Sans TC', sans-serif;font-size:60px};font-weight:700;text-transform:uppercase;color:#EE7700}
+ h1,h2,h3,h4,h5,h6{font-family:'Noto Sans TC', sans-serif;font-size:60px};font-weight:700;text-transform:uppercase;color:#D2691E}
  .fa, .fab, .fad, .fal, .far, .fas{font-size:5rem}
  element.style {font-size:100px}
  social-icons{font-size:100px}
