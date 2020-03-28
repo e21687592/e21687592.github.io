@@ -28,7 +28,7 @@
   #sideNav .navbar-collapse{display:flex;align-items:flex-start;flex-grow:0;width:100%;margin-bottom:auto}
   #sideNav .navbar-collapse .navbar-nav{flex-direction:column;width:100%}#sideNav .
   navbar-collapse .navbar-nav .nav-item{display:block;line-height:30px}
-  #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link{display:block;line-height:20px}}
+  #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link{display:block;line-height:25px}}
   section.resume-section{padding-top:5rem!important;padding-bottom:5rem!important;max-width:75rem}
   section.resume-section .resume-item .resume-date{min-width:none}
   @media (min-width:768px){section.resume-section{min-height:100vh}
