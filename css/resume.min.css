@@ -2,7 +2,7 @@
  * Start Bootstrap - Resume v5.0.8 (https://startbootstrap.com/template-overviews/resume)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
- */body{font-family:'Noto Sans TC', sans-serif;padding-top:54px;color:#696969;font-size:30px;line-height:50px;letter-spacing:0.5px}
+ */body{background-color: #d6d6d6;background-image: url("https://www.transparenttextures.com/patterns/fresh-snow.png");font-family:'Noto Sans TC', sans-serif;padding-top:54px;color:#696969;font-size:30px;line-height:50px;letter-spacing:0.5px}
  @media (min-width:992px)
  {body{padding-top:0;padding-left:17rem}
  h1,h2,h3,h4,h5,h6{font-family:'Noto Sans TC', sans-serif;font-size:60px};font-weight:700;text-transform:uppercase;color:#343a40}
