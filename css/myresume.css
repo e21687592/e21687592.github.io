@@ -20,11 +20,6 @@ subheading mb-3{
     text-align:left
     font-size:40px
 }
-.fa-ul ol{
-    text-align:left
-    list-style-type:upper-roman
-}
 ol {
     text-align:left
-    list-style-type:upper-roman
 }
