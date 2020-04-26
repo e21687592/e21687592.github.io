@@ -23,3 +23,10 @@ subheading mb-3{
 ol {
     text-align:left
 }
+table {
+    text-align:center
+} 
+td {border-bottom:1px solid #3f294a;}
+td {border:1px solid #2a5d44;}
+tr:nth-child(even) {background-color:#ddd;}
+tr:nth-child(odd) {background-color:#fff;}
