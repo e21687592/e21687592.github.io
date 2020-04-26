@@ -23,12 +23,14 @@ subheading mb-3{
 ol {
     text-align:left
 }
-table {
-    text-align:center
-} 
 td {border-bottom:1px solid #3f294a;}
 tr:nth-child(even) {background-color:#ddd;}
 tr:nth-child(odd) {background-color:#fff;}
 container {text-align:center
 }
 table {width: 80%;}
+able{
+
+margin-left:auto; 
+margin-right:auto;
+}
