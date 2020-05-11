@@ -64,5 +64,5 @@ d-flex flex-column-reverse {max-width:540px;
 .row {display:flex;
 flex-wrap:wrap ;
 position:absolute;
-right:0px;
+right:10px;
 }
