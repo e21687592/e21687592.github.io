@@ -63,6 +63,6 @@ d-flex flex-column-reverse {max-width:540px;
 }
 .row {display:flex;
 flex-wrap:wrap ;
-position:absolute;
-right:10px;
+margin-left:auto; 
+margin-right:auto;
 }
