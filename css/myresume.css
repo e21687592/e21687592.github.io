@@ -52,5 +52,5 @@ flex-wrap:wrap
 row {display:flex;
 flex-wrap:wrap
 }
-container {max-width:720px;
+container {max-width:540px;
 }
