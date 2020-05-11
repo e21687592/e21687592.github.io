@@ -49,3 +49,6 @@ p {color:#20B2AA
 row text-center text-lg-left {display:flex;
 flex-wrap:wrap
 }
+row {display:flex;
+flex-wrap:wrap
+}
