@@ -61,3 +61,6 @@ flex-wrap:wrap
 }
 d-flex flex-column-reverse {max-width:540px;
 }
+.row {display:flex;
+flex-wrap:wrap
+}
