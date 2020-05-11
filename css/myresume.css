@@ -30,7 +30,7 @@ border-style: none;
 weight:300px;
 height:300px
 }
-row {display:flex;
+row text-center text-lg-left {display:flex;
 flex-wrap:wrap
 }
 p {color:#20B2AA
