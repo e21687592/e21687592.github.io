@@ -46,7 +46,8 @@ flex-wrap:wrap
 }
 p {color:#20B2AA;
 margin-top:0;
-margin-bottom:1rem
+margin-bottom:1rem;
+margin-left:1rem
 }
 row text-center text-lg-left {display:flex;
 flex-wrap:wrap
