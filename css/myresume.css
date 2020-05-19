@@ -1,76 +1,50 @@
-<body> 
- <class="social-icons">
-div{
-    font-size:100px
-}       
-    subheading{
+body {
     font-family: 'Noto Sans TC', sans-serif;
 }
-social-icons{font-size:100px
-}
-h1,h2,h3,h4,h5,h6 {
+
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Noto Sans TC', sans-serif;
-    color:#D2691E;
-    font-size:60px
-}    
-subheading {
-    font-family: 'Noto Sans TC', sans-serif;
+    text-transform: none;
+h1 {
+	font-size: 5rem;
+	line-height: 10rem;
+    
+}   
+  
 }
-subheading mb-3{
-    text-align:left
-    font-size:40px
+.subheading {
+	font-family: 'Noto Sans TC', sans-serif;
+	text-transform: none;
+	font-size: 1.2em;
+
+
+
 }
-td {border-bottom:1px solid #d8e3f0;}
-tr:nth-child(even) {background-color:#fff;}
-tr:nth-child(odd) {background-color:#fff;}
-container {text-align:center
+
+section.resume-section {
+	background-position:top left;
+	background-repeat: repeat;
+	background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png")
 }
-table {width: 80%;}
-table{
-margin-left:auto; 
-margin-right:auto;
+
+.bg-primary {
+  background-color: #0066cc !important;
+  background-position:top left;
+  background-repeat: repeat;
+  background-image: url("https://www.transparenttextures.com/patterns/back-pattern.png");
 }
-table td, table th{padding:0.75rem}
-ol {
-    text-align:left
+
+
+.box{
+  background-color: white;
+  width: 300px;
+  height: 300px;
+  border: 15px solid darkred;
+  padding: 50px;
+  margin: 20px;
+  display: inline-block;
 }
-container{background-color:#d8e3f0}
-img {
-vertical-align: left;
-border-style: none;
-weight:300px;
-height:300px
-}
-row {display:flex;
-flex-wrap:wrap
-}
-p {color:#20B2AA;
-margin-top:0;
-margin-bottom:1rem;
-margin-left:1rem
-}
-row text-center text-lg-left {display:flex;
-flex-wrap:wrap
-}
-row {display:flex;
-flex-wrap:wrap
-}
-container {max-width:540px;
-}
-div#container {max-width:540px;
-}
-div#row {display:flex;
-flex-wrap:wrap
-}
-d-flex flex-column-reverse {max-width:540px;
-}
-.row {display:flex;
-flex-wrap:wrap ;
-margin-left:auto; 
-margin-right:auto;
-text-align:left
-}
-h2 {text-align:left
-}
-.navbar-dark .navbar-toggler-icon{background-image:url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);
-}
+
+.style{
+  display:block;
+  margin:auto"
