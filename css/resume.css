@@ -3,14 +3,17 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
-body {
-font-family: 'Muli,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji', sans-serif;
+
+body {
+  font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  padding-top: 54px;
+  color: #868e96;
 }
-@media (min-width: 2px) {
+
+@media (min-width: 992px) {
   body {
-    padding-top: 0rem;
+    padding-top: 0;
     padding-left: 17rem;
-    color:RGB(0,0,0)
   }
 }
 
@@ -20,11 +23,10 @@ h3,
 h4,
 h5,
 h6 {
-  font-family:"Courier New", sans-serif;
-  font-weight: 2px;
-  text-transform: lowercase;
-  color: 000000
-  background color: RGB(0,256,0);
+  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-weight: 700;
+  text-transform: none;
+  color: #343a40;
 }
 
 h1 {
@@ -48,7 +50,7 @@ p.lead {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: "Courier New" , sans-serif;
+  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 1.5rem;
 }
 
@@ -70,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #000000;
+  background-color: #BD5D38;
 }
 
 .dev-icons {
@@ -78,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #000000;
+  color: #BD5D38;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -158,15 +160,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #RGB(0,100,0) !important;
+  background-color: #bd5d38 !important;
+  
+  
 }
 
 .text-primary {
-  color: #RGB(0,100,0) !important;
+  color: #BD5D38 !important;
 }
 
 a {
-  color: #000000;
+  color: #BD5D38;
 }
 
 a:hover, a:focus, a:active {
