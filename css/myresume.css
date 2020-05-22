@@ -9,7 +9,8 @@ div{
 social-icons{font-size:100px
 }
 h8 {
-     color:#00BFFF
+     color:#00BFFF;
+     font-size:20px
 }
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Noto Sans TC', sans-serif;
@@ -100,6 +101,4 @@ div.subheading mb-3 {font-size:20px ;
 div#column {color:#5c1212
 }
 .text-primary {font-size:60px
-}
-h8 {color:#00BFFF
 }
