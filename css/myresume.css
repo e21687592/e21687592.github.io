@@ -41,9 +41,6 @@ border-style: none;
 weight:300px;
 height:300px
 }
-row {display:flex;
-flex-wrap:wrap
-}
 p {color:#5c1212;
 margin-top:0;
 margin-bottom:1rem;
@@ -61,7 +58,8 @@ container {max-width:540px;
 div#container {max-width:540px;
 }
 div#row {display:flex;
-flex-wrap:wrap
+flex-wrap:wrap;
+color:#5c1212
 }
 d-flex flex-column-reverse {max-width:540px;
 }
@@ -93,4 +91,8 @@ mb-3 {font-size:22px ;
 }
 div.subheading mb-3 {font-size:20px ;
  margin-bottom:0.5rem
+}
+.column {color:#5c1212
+}
+div#column {color:#5c1212
 }
