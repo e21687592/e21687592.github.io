@@ -19,6 +19,8 @@ h8 {
     padding: 0px;
     margin: 0px;
 } 
+img {height:300px
+}
 .time-horizontal li {
     float: left;
     position: relative;
