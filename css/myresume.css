@@ -12,6 +12,8 @@ h8 {
      color:#00BFFF;
      font-size:20px
 }
+ol{{list-style-type: circle}
+
 .time-horizontal {
     list-style-type: none;
     border-top: 1px solid #707070;
